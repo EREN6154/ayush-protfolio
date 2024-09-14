@@ -26,7 +26,7 @@ export default function Home () {
             </button>
             <div className='icons'>
               <a href="https://github.com/EREN6154" target='_blank'><FaGithubSquare className='icon' /></a>
-              <a href="linkedin.com/in/ayush-soni-922317205" target='_blank'><FaLinkedin className='icon'  /></a>
+              <a href="https://in.linkedin.com/in/ayush-soni-922317205" target='_blank'><FaLinkedin className='icon'  /></a>
               <a href="https://www.instagram.com/ayushsoni01/" target='_blank'><FaInstagram className='icon' /></a>
             </div>
           </div>
